@@ -1,5 +1,5 @@
 <template>
     <div>
-        特惠
+        <div>分类</div>
     </div>
 </template>

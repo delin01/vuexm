@@ -1,5 +1,5 @@
 <template>
     <div>
-        <img src="../assets/404.jpg">
+        <div>9.9包邮</div>
     </div>
 </template>
